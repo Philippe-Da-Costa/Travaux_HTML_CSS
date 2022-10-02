@@ -1,0 +1,14 @@
+body{
+    background-color: #eee;
+    margin: auto;
+    width: 100%;
+}
+.container{
+    background-color: blueviolet; 
+    display: flex;
+    flex-direction: column;
+}
+.cont-item{
+    background-color: brown;
+    border: 1px solid black;
+}

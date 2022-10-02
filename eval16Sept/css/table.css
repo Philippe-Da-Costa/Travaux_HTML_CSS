@@ -1,0 +1,29 @@
+table{
+    width: auto;
+    border: 3px solid black;
+}
+td{
+    border: 1px solid black ;
+    width: auto;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 1.2em;
+   text-align: center;
+}
+.tdJaune{background-color:#ffff00 ;}
+
+.h2-int{
+    text-align: center;
+    background-color:#ffff00;
+    width: 250px;
+    margin: auto;
+    
+}
+.h3-int{
+    float: left;
+    background-color:#ffff00;
+    width: 150px;
+    margin: auto;
+   }
+   .indent-left{
+    margin-top: 70px;
+   }

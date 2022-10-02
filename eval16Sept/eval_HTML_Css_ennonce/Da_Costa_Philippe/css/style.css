@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(44, 47, 34);
+}
+
+header{
+    width: 60%;
+    margin-left: 40%;
+    display: flex ;
+} 
+header h1 {
+    padding: 10px;
+    color: rgb(240, 227, 158);
+    align-items: center;
+} 
+.menu{
+    
+    padding-left: 0;
+}
+.menu li{
+    list-style: none;
+    border: 1px solid white;
+    color: rgb(240, 227, 158);
+    width: 25%;
+    height: autopx;
+    text-align: center;
+}
+.menu li:hover{
+    background-color: aquamarine;
+}
+
+.menu li a{
+    /* border: 1px solid white; */
+    color: rgb(240, 227, 158);
+    text-decoration: none;
+    font-weight: bold;
+    padding-top: 7px;
+    display: block;
+  }
+.menu li a:hover{
+    color: rgb(187, 158, 240);
+  }
